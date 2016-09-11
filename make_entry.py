@@ -1,4 +1,7 @@
+#!/usr/bin/env python
+
 # Adapted from https://nafiulis.me/making-a-static-blog-with-pelican.html
+# example: ./make_entry.py [title of your post]
 
 import sys
 from datetime import datetime
