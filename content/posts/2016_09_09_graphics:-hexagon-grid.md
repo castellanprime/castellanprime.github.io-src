@@ -56,7 +56,7 @@ Other vertices:
 > $vert10 = ( x - r, y + h)$
 
 
-![Column measurements]({filename}/../images/Column_annotated.jpg)
+![Column measurements]({filename}../images/Column_annotated.jpg)
 
 
 The java code is shown below:
